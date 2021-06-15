@@ -1,1 +1,1 @@
-print ("Hola desed git, mi primer programa en git desde mi navegador")
+print ("Hola desde git, mi primer programa en git desde mi compu")
